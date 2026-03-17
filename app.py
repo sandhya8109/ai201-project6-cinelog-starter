@@ -3,6 +3,7 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 import os
+from routes.watchlist import watchlist_bp
 
 db = SQLAlchemy()
 
