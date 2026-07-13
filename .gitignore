@@ -4,12 +4,6 @@
 instance/
 __pycache__/
 *.pyc
-<<<<<<< HEAD
 .venv/
 venv/
 .pytest_cache/
-=======
-.pytest_cache/
-.venv/
-venv/
->>>>>>> 718a9a8 (chore: add .gitignore for generated files)
